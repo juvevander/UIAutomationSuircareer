@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UIAutomation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8172eb64-5acc-4372-b92d-2acc4e54cd79</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c7982a60-9372-4cbc-971a-a51f0b24b292</id>
+      <masked>false</masked>
+      <name>location</name>
+   </variable>
+</TestCaseEntity>
